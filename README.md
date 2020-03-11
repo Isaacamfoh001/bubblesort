@@ -1,1 +1,1 @@
-# bubblesort
+# bubblesort and selection sort algorithm
